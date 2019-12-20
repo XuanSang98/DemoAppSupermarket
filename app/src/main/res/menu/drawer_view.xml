@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/thongtincanhan"
+            android:title="Thông Tin Cá Nhân"
+            android:icon="@drawable/thongtincanhan"></item>
+        <item android:id="@+id/lichsumuahang"
+            android:title="Lịch Sử Mua Hàng"
+            android:icon="@drawable/lichsumuahang"></item>
+        <item android:id="@+id/giohang"
+            android:title="Giỏ Hàng"
+            android:icon="@drawable/giohang"></item>
+        <item android:id="@+id/dieukhoansudung"
+            android:title="Điều Khoản Sử Dụng"
+            android:icon="@drawable/dieukhoansudung"></item>
+        <item android:id="@+id/dangxuat"
+            android:title="Đăng Xuất"
+            android:icon="@drawable/dangxuat"></item>
+    </group>
+</menu>
